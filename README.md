@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on [Twitter](https://twitter.com/UN1QU3_py)
 
-- 🤝 I’m looking for help with **C**
+- 🤝 I’m looking for help with **Cyber Security**
 
 - 👨‍💻 All of my projects are available at [https://unifolio.pages.dev/](https://unifolio.pages.dev/)
 

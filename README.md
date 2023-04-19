@@ -4,8 +4,10 @@
 def UNIQUE():
     pronouns: "GOD" | "Lord",
     code: [Python, C, HTML, CSS,],
-    Skills: [Can sleep anytime, Dark Humor, Story-telling, Code, Code, Code, Getting Gurls],
-    challenge: "I am doing the #100DaysOfCode by Dr.Angela Yu","Try Hack ME" , "Living the life ""
+    Skills: [Can sleep anytime, Dark Humor, Story-telling,
+    Code, Code, Code, Getting Gurls],
+    challenge: "I am doing the #100DaysOfCode by Dr.Angela Yu",
+    "Try Hack ME" , "Living the life ""
 }
 ```
 

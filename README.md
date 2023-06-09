@@ -1,14 +1,8 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ```
-def UNIQUE():
-    pronouns: "GOD" | "Lord",
-    code: [Python, C, HTML, CSS,],
-    Skills: [Can sleep anytime, Dark Humor, Story-telling,
-    Code, Code, Code, Getting Gurls],
-    challenge: "I am doing the #100DaysOfCode by Dr.Angela Yu",
-    "Try Hack ME" , "Living the life ""
-}
+सुखार्थिनः कुतो विद्या नास्ति विद्यार्थिनः सुखम्।
+सुखार्थी वा त्यजेद्विद्यां विद्यार्थी वा त्यजेत्सुखम्॥
 ```
 
 <h3 align="left">Languages and Tools:</h3>

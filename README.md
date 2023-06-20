@@ -9,4 +9,3 @@
 
 
               
-<img src="https://media.giphy.com/media/ppndfTmDFgAdq/giphy.gif" width="60"> <em><b>Perhaps I'm like a Nokia phone, because I have a natural inclination towards connecting with people.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
